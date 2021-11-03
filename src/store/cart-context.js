@@ -8,3 +8,5 @@ const CartContext = React.createContext({
 });
 
 export default CartContext;
+
+// Started with context rather than prop drilling
